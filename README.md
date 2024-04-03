@@ -1,1 +1,149 @@
 # Portfolio
+
+## Name: Ravi Gupta
+
+### About Me:  
+I am Sr. Software Engineer with having  5 years of experience. 
+
+### Education: 
+
+I done B.tech with Computer Science Branch. 
+
+### SKILLS:
+core php , laravel , html , jquery , ajax , bootstrap.  
+
+### PROJECT DETAILS AND WORK EXPERIENCES. 
+
+## July 2023 – February 2024 - ScaleupAlly Pvt Ltd
+
+### Project Name: RTF Insurance
+- **Description:** This project is based on React.js as front-end and Laravel as backend with MySQL database.
+- **Responsibilities:**
+  - Implemented all the APIs in all phases or milestones.
+  - Implemented Spatie Laravel for different roles.
+  - Developed functionalities such as PDF generator, Excel generator, data import/export, and CRUD operations.
+- **Technologies Used:** React.js, Laravel, MySQL.
+
+### Project Name: Footbridge
+- **Description:** This project is based on Laravel with MySQL database.
+- **Responsibilities:**
+  - Extracted data from Bullhorn APIs of notes action, candidates, and owners.
+  - Managed large amounts of data (20 lakh records) in the database.
+  - Implemented pagination, search features, and user authentication.
+- **Technologies Used:** Laravel, MySQL.
+
+### Project Name: Karried at
+- **Description:** This project is developed using Core PHP with no database.
+- **Responsibilities:**
+  - Created XML files using DOMDocument for Bullhorn job data.
+- **Technologies Used:** Core PHP.
+
+### Project Name: Zanur
+- **Description:** This project is based on Laravel as backend and React.js as front-end with MySQL database.
+- **Responsibilities:**
+  - Implemented Spatie Laravel for different roles such as job seekers and organizations.
+- **Technologies Used:** Laravel, React.js, MySQL.
+
+## February 2023 – June 2023 – Suntec Web services Pvt Ltd.
+
+### Project Name: Iwaki America Leads
+- **Description:** Integrated the Lead System in Core PHP, Forwarding System in Laravel, and integrated Outlook's Mail or WebMails in Laravel with MySQL Database.
+- **Responsibilities:**
+  - Implemented Cron Setup for fetching lead details from Outlook mails.
+- **Technologies Used:** Core PHP, Laravel, MySQL.
+
+### Project Name: Nason Leadlift System
+- **Description:** Integrated the Lead System in Core PHP in Reviewqueue Lead System with MySQL Database.
+- **Responsibilities:**
+  - Implemented Forwarding Mail System in Laravel with the same database.
+- **Technologies Used:** Core PHP, Laravel, MySQL. 
+
+### Project Name : Stryker Interlynx Lead System 
+- **Description:** Integrate the ReviewQue Lead System with MySql 
+Database in Core Php and Autostitch Cron Functionality for getting the leads of 
+CSR form. 
+- **Responsibilities:**
+Implemented the CSR Form Functionality in laravel and getting new leads. 
+- **Technologies Used:** Core PHP, Laravel, MySQL.
+  
+### Proect Name : Carlisleft Leads Interlynx System.
+- **Description:**  Implement the ReviewQue Lead System in Core php with Mysql 
+Database and also implement the webmail Cron for the form in webmail. 
+- **Responsibilities:** 
+I implement the CSR form for phone call Functionality for getting the 
+Leads and also implement the Lead Queue Process for Client in which Client can 
+manage his forwarding process and many others.
+- **Technologies Used:** Core PHP, Laravel, MySQL.
+
+## 3 February 2022 - November 2022 – NimbusPost Pvt Ltd
+
+### Project Name - D2C-Shopify App
+  - **Description:** I fetch the product and collection detail of shopify users and every User can register and make his own store in shopify.
+  - **Responsibilities:** 
+   I implemented And Integrated Shopify in laravel framework with MongoDB Database.
+   - **Technologies Used:** Laravel , javascript , MongoDB. 
+
+### Project Name - Nimbuspost
+ - **Description:** I implemented the report section. There is lots of report are present such 
+as channel wise , product wise , courier wise and  implemented the Roles for domestic and international users
+ - **Responsibilities:**  
+    Implement Whatsapp Api for users. 
+       - **Technologies Used:** codeigniter , Mysql. 
+
+### Project Name - Urbanic Analytic 
+ - **Description:** I Implemented the cron job for import and export the data in csv format because the data 
+size is too large i.e 6-7 lakh and also implement RabbitMQ library for socket programming.
+ - **Responsibilities:**   
+I Implemented the cron job for import and export the data in csv format because the data 
+size is too large i.e 6-7 lakh .
+    - **Technologies Used:** Laravel , MongoDB. 
+
+## 4 August 2021 - January 2022 - Chetu Inc . 
+
+### Project Name - Hotel Management  
+- **Description:** This Project is on laravel with Mysql database. 
+ - **Responsibilities:**  
+ I implemented the Sabre API which gives the data in json Format.
+ - **Technologies Used:** Laravel, MySQL.
+
+ ### Project Name - Mosaic Creation.
+ - **Description:** This Project is on Wordpress with Mysql database.
+  - **Responsibilities:** I Make a Plugin for mosaic and for  this I try lots of images  in-build method. 
+  - **Technologies Used:** Wordpress, MySQL.
+
+## 5. July 2020 - August 2021 – Startupca Investment Pvt ltd
+
+ ### Project Name - Startupca
+  - **Description:** This project is based on laravel with mysql database. 
+  - **Responsibilities:** In this project we provide the new business idea for new startup and for this we 
+create a module and online test and I Implemented a export and import the user details and I also implemented the bulk mailing Process.
+ - **Technologies Used:** Laravel, MySQL.
+
+### Project Name - Nextentrance
+  - **Description:** This project is based on laravel with mysql database. 
+  - **Responsibilities:** I implement the captcha for register and login . 
+   I implemented the SHA512 hashing with the help of javascript. 
+   I prevent the brute force attack.
+   I Created a dynamic website for different school who register with his school ID. 
+  - **Technologies Used:** Laravel, MySQL.
+
+
+## 6. June 2019 - June 2020 – Markdrshak 
+
+### Project Name - Margdarshak
+  - **Description:** This project is based on laravel with mysql database. 
+  - **Responsibilities:**  I Implemented the basic CRUD Functionality for new users. 
+  I Created a Online Test Modules for Providing the internship for freshers.
+  - **Technologies Used:** Laravel, MySQL.
+### Project Name - Careerlinked
+ - **Description:** This project is based on core PHP with mysql database.  
+  - **Responsibilities:**  This Project is a clone of Margdarshak. 
+ - **Technologies Used:** Core php, MySQL.
+
+
+ ### Contact:
+ -Email : ravi2704gupta@gmai.com 
+ -Phone Number : 9761142946. 
+ -LinkedIn : https://www.linkedin.com/in/ravi-gupta-61a7a9108/ 
+
+
