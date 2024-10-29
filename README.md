@@ -44,38 +44,8 @@ core php , laravel , html , jquery , ajax , bootstrap.
   - Implemented Spatie Laravel for different roles such as job seekers and organizations.
 - **Technologies Used:** Laravel, React.js, MySQL.
 
-## February 2023 – June 2023 – Suntec Web services Pvt Ltd.
 
-### Project Name: Iwaki America Leads
-- **Description:** Integrated the Lead System in Core PHP, Forwarding System in Laravel, and integrated Outlook's Mail or WebMails in Laravel with MySQL Database.
-- **Responsibilities:**
-  - Implemented Cron Setup for fetching lead details from Outlook mails.
-- **Technologies Used:** Core PHP, Laravel, MySQL.
-
-### Project Name: Nason Leadlift System
-- **Description:** Integrated the Lead System in Core PHP in Reviewqueue Lead System with MySQL Database.
-- **Responsibilities:**
-  - Implemented Forwarding Mail System in Laravel with the same database.
-- **Technologies Used:** Core PHP, Laravel, MySQL. 
-
-### Project Name : Stryker Interlynx Lead System 
-- **Description:** Integrate the ReviewQue Lead System with MySql 
-Database in Core Php and Autostitch Cron Functionality for getting the leads of 
-CSR form. 
-- **Responsibilities:**
-Implemented the CSR Form Functionality in laravel and getting new leads. 
-- **Technologies Used:** Core PHP, Laravel, MySQL.
-  
-### Proect Name : Carlisleft Leads Interlynx System.
-- **Description:**  Implement the ReviewQue Lead System in Core php with Mysql 
-Database and also implement the webmail Cron for the form in webmail. 
-- **Responsibilities:** 
-I implement the CSR form for phone call Functionality for getting the 
-Leads and also implement the Lead Queue Process for Client in which Client can 
-manage his forwarding process and many others.
-- **Technologies Used:** Core PHP, Laravel, MySQL.
-
-## 3 February 2022 - November 2022 – NimbusPost Pvt Ltd
+## August 2021 - June 2023 – NimbusPost Pvt Ltd
 
 ### Project Name - D2C-Shopify App
   - **Description:** I fetch the product and collection detail of shopify users and every User can register and make his own store in shopify.
@@ -98,37 +68,18 @@ I Implemented the cron job for import and export the data in csv format because 
 size is too large i.e 6-7 lakh .
     - **Technologies Used:** Laravel , MongoDB. 
 
-## 4 August 2021 - January 2022 - Chetu Inc . 
 
-### Project Name - Hotel Management  
-- **Description:** This Project is on laravel with Mysql database. 
- - **Responsibilities:**  
- I implemented the Sabre API which gives the data in json Format.
- - **Technologies Used:** Laravel, MySQL.
-
- ### Project Name - Mosaic Creation.
- - **Description:** This Project is on Wordpress with Mysql database.
-  - **Responsibilities:** I Make a Plugin for mosaic and for  this I try lots of images  in-build method. 
-  - **Technologies Used:** Wordpress, MySQL.
-
-## 5. July 2020 - August 2021 – Startupca Investment Pvt ltd
-
- ### Project Name - Startupca
-  - **Description:** This project is based on laravel with mysql database. 
-  - **Responsibilities:** In this project we provide the new business idea for new startup and for this we 
-create a module and online test and I Implemented a export and import the user details and I also implemented the bulk mailing Process.
- - **Technologies Used:** Laravel, MySQL.
-
-### Project Name - Nextentrance
-  - **Description:** This project is based on laravel with mysql database. 
-  - **Responsibilities:** I implement the captcha for register and login . 
-   I implemented the SHA512 hashing with the help of javascript. 
-   I prevent the brute force attack.
-   I Created a dynamic website for different school who register with his school ID. 
-  - **Technologies Used:** Laravel, MySQL.
+### Proect Name : Carlisleft Leads Interlynx System.
+- **Description:**  Implement the ReviewQue Lead System in Core php with Mysql 
+Database and also implement the webmail Cron for the form in webmail. 
+- **Responsibilities:** 
+I implement the CSR form for phone call Functionality for getting the 
+Leads and also implement the Lead Queue Process for Client in which Client can 
+manage his forwarding process and many others.
+- **Technologies Used:** Core PHP, Laravel, MySQL.
 
 
-## 6. June 2019 - June 2020 – Markdrshak 
+## June 2019 - August 2021 – Markdrshak 
 
 ### Project Name - Margdarshak
   - **Description:** This project is based on laravel with mysql database. 
@@ -139,6 +90,14 @@ create a module and online test and I Implemented a export and import the user d
  - **Description:** This project is based on core PHP with mysql database.  
   - **Responsibilities:**  This Project is a clone of Margdarshak. 
  - **Technologies Used:** Core php, MySQL.
+
+ ### Project Name - Nextentrance
+  - **Description:** This project is based on laravel with mysql database. 
+  - **Responsibilities:** I implement the captcha for register and login . 
+   I implemented the SHA512 hashing with the help of javascript. 
+   I prevent the brute force attack.
+   I Created a dynamic website for different school who register with his school ID. 
+  - **Technologies Used:** Laravel, MySQL.
 
 
  ### Contact:
