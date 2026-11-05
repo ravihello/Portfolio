@@ -40,7 +40,7 @@ function App() {
             <p className="intro-text">HELLO, I'M</p>
 
             <h1>
-              Ravi Kumar <span>Gupta.</span>
+              Ravi<span>Gupta.</span>
             </h1>
 
             <h2>Sr. PHP Developer</h2>
